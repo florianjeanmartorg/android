@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- facebook -->
+    <string name="facebook_app_id">160818220927220</string>
+
+    <!-- TODO REMOVE -->
+    <string name="app_name">Gling Business</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- GENERIC -->
+    <string name="g_registration">Registration</string>
+    <string name="g_welcome">Welcome</string>
+    <string name="g_lastName">Last Name</string>
+    <string name="g_name">name</string>
+    <string name="g_firstName">First Name</string>
+    <string name="g_continue">Continue</string>
+    <string name="g_password">Password</string>
+    <string name="g_login">Login</string>
+    <string name="g_back">Back</string>
+    <string name="g_value">Value</string>
+    <string name="g_date">Date</string>
+    <string name="g_desc">Description</string>
+    <string name="g_edit">Edit</string>
+    <string name="g_email">Email</string>
+    <string name="g_submit">Submit</string>
+    <string name="g_loading">Loading ...</string>
+    <string name="g_price">Price</string>
+    <string name="g_close">Close</string>
+    <string name="g_none">None</string>
+    <string name="g_valid">Valid</string>
+    <string name="g_refresh">Refresh</string>g_loading
+    <string name="g_add">Add</string>
+    <string name="g_remove">Remove</string>
+    <string name="g_save">Save</string>
+    <string name="g_roommate">Roommate</string>
+    <string name="g_name_abrv">Acronym</string>
+    <string name="g_total">Total</string>
+    <string name="g_warning">Warning</string>
+    <string name="g_category">Category</string>
+    <string name="g_logout">Logout</string>
+    <string name="g_cancel">Cancel</string>
+    <string name="g_error">Error</string>
+
+    <!-- login activity -->
+    <string name="login_activity_login">Login you</string>
+    <string name="login_activity_forgot_password">Forgot password ?</string>
+    <string name="a_login_registration_button">Not registered yet ?</string>
+
+    <!-- forgot password activity -->
+    <string name="activity_forgot_password">Forgot password ?</string>
+
+    <!-- publication form -->
+    <string name="form_promotion_activity_title">Créer une promotion</string>
+    <string name="form_business_notification_activity_title">Créer une actualité</string>
+    <string name="form_publication_title">Titre</string>
+    <string name="form_publication_description">Description</string>
+    <string name="form_publication_startdate">Date de début</string>
+    <string name="form_publication_enddate">Date de fin</string>
+    <string name="form_publication_originalprice">Prix de base</string>
+    <string name="form_publication_percent">Pourcentage de réduction</string>
+
+    <!--error -->
+    <string name="verification_email">Email expected</string>
+    <string name="verification_password">Between 6 and 18 letters, number or _-</string>
+    <string name="forgot_password_success">A new password was send to your email address.</string>
+    <string name="help_forgot_password">Get your email address and we\'ll send you a new password by e-mail</string>
+
+    <!-- gling icon -->
+
+    <string name="gling_icon_fidelisation">
+    \ue62a
+    </string>
+    <string name="gling_icon_geolocalisation">
+    \ue62b
+    </string>
+    <string name="gling_icon_home">
+    \ue627
+    </string>
+    <string name="gling_icon_logogling">
+    \ue628
+    </string>
+    <string name="gling_icon_logoapp">
+    \ue629
+    </string>
+    <string name="gling_icon_money">
+    \ue631
+    </string>
+    <string name="gling_icon_sleep">
+    \ue632
+    </string>
+    <string name="gling_icon_arrow_right">
+    \ue600
+    </string>
+    <string name="gling_icon_arrow_left">
+    \ue601
+    </string>
+    <string name="gling_icon_arrow_down">
+    \ue602
+    </string>
+    <string name="gling_icon_arrow_up">
+    \ue603
+    </string>
+    <string name="gling_icon_shop">
+    \ue604
+    </string>
+    <string name="gling_icon_people">
+    \ue605
+    </string>
+    <string name="gling_icon_profil">
+    \ue606
+    </string>
+    <string name="gling_icon_heart">
+    \ue607
+    </string>
+    <string name="gling_icon_star">
+    \ue608
+    </string>
+    <string name="gling_icon_mail">
+    \ue609
+    </string>
+    <string name="gling_icon_promo">
+    \ue60a
+    </string>
+    <string name="gling_icon_earth">
+    \ue60b
+    </string>
+    <string name="gling_icon_phone">
+    \ue60c
+    </string>
+    <string name="gling_icon_clock">
+    \ue60d
+    </string>
+    <string name="gling_icon_glass">
+    \ue60e
+    </string>
+    <string name="gling_icon_bell2">
+    \ue60f
+    </string>
+    <string name="gling_icon_bell">
+    \ue610
+    </string>
+    <string name="gling_icon_calendar">
+    \ue611
+    </string>
+    <string name="gling_icon_facebook">
+    \ue612
+    </string>
+    <string name="gling_icon_play">
+    \ue613
+    </string>
+    <string name="gling_icon_technology">
+    \ue614
+    </string>
+    <string name="gling_icon_music">
+    \ue615
+    </string>
+    <string name="gling_icon_garden">
+    \ue616
+    </string>
+    <string name="gling_icon_read">
+    \ue617
+    </string>
+    <string name="gling_icon_doityourself">
+    \ue618
+    </string>
+    <string name="gling_icon_baby">
+    \ue619
+    </string>
+    <string name="gling_icon_travel">
+    \ue61b
+    </string>
+    <string name="gling_icon_pets">
+    \ue61c
+    </string>
+    <string name="gling_icon_sport">
+    \ue61d
+    </string>
+    <string name="gling_icon_welness">
+    \ue61e
+    </string>
+    <string name="gling_icon_decor">
+    \ue61f
+    </string>
+    <string name="gling_icon_clothe">
+    \ue620
+    </string>
+    <string name="gling_icon_supermarket">
+    \ue621
+    </string>
+    <string name="gling_icon_shopping">
+    \ue622
+    </string>
+    <string name="gling_icon_culture">
+    \ue623
+    </string>
+    <string name="gling_icon_going_out">
+    \ue624
+    </string>
+    <string name="gling_icon_drink">
+    \ue625
+    </string>
+    <string name="gling_icon_eat">
+    \ue626
+    </string>
+    <string name="gling_icon_images">
+    \ue90e
+    </string>
+    <string name="gling_icon_location">
+    \ue947
+    </string>
+    <string name="gling_icon_info">
+    \uea0c
+    </string>
+    <string name="form_publication_error_title">Le titre doit faire entre 2 et 100 caractères</string>
+    <string name="form_publication_error_description">La description ne peut excéder 1000 caractères</string>
+    <string name="account_form_error_name">Entre 2 et 50 caractères</string>
+    <string name="g_error_not_null_default">merci de remplir ce champs</string>
+    <string name="promotion_form_error_percent_limit">Le pourcentage doit être compris entre 0 et 100</string>
+
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
